@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\bin\Debug\net10.0\AulaSerialização.exe
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\bin\Debug\net10.0\AulaSerialização.deps.json
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\bin\Debug\net10.0\AulaSerialização.runtimeconfig.json
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\bin\Debug\net10.0\AulaSerialização.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\bin\Debug\net10.0\AulaSerialização.pdb
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\AulaSerialização.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\AulaSerialização.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\AulaSerialização.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\AulaSerialização.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\AulaSerialização.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\refint\AulaSerialização.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\AulaSerialização.pdb
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\AulaSerialização.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\AulaSerialização\obj\Debug\net10.0\ref\AulaSerialização.dll

@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\bin\Debug\net10.0\ProjetoJSON.exe
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\bin\Debug\net10.0\ProjetoJSON.deps.json
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\bin\Debug\net10.0\ProjetoJSON.runtimeconfig.json
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\bin\Debug\net10.0\ProjetoJSON.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\bin\Debug\net10.0\ProjetoJSON.pdb
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\ProjetoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\ProjetoJSON.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\ProjetoJSON.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\ProjetoJSON.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\ProjetoJSON.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\refint\ProjetoJSON.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\ProjetoJSON.pdb
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\ProjetoJSON.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\ProjetoJSON\obj\Debug\net10.0\ref\ProjetoJSON.dll

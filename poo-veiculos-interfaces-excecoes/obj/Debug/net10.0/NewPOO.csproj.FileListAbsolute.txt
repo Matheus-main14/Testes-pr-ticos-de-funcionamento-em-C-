@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\bin\Debug\net10.0\NewPOO.exe
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\bin\Debug\net10.0\NewPOO.deps.json
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\bin\Debug\net10.0\NewPOO.runtimeconfig.json
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\bin\Debug\net10.0\NewPOO.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\bin\Debug\net10.0\NewPOO.pdb
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\NewPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\NewPOO.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\NewPOO.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\NewPOO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\NewPOO.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\refint\NewPOO.dll
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\NewPOO.pdb
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\NewPOO.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Desktop\Vs code\Novo POO\NewPOO\obj\Debug\net10.0\ref\NewPOO.dll
